@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
+<h1 align="center">Hi 👋, I'm Felix Philips</h1>
 <h3 align="center">I am a Full-Stack Web and Mobile Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felix-phil" alt="felix-phil" /></a> </p>
@@ -9,9 +9,13 @@
 
 - 🌱 I’m currently learning **Swift, DevOps**
 
+- 👯 I’m looking to collaborate on **CashGlide**
+
 - 💬 Ask me about **React, React Native, Node.js, Python**
 
 - 📫 How to reach me **devfelixphil@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BlqmXmyUE9Wvg8E2y0K0bGT7ER6Qy0uQ/view?usp=sharing](https://drive.google.com/file/d/1BlqmXmyUE9Wvg8E2y0K0bGT7ER6Qy0uQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
